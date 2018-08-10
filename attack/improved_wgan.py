@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 """
-Authors: wuguangzhu@baidu.com
+Authors: guangzhuwu@gmail.com
 """
 
 import tensorflow as tf

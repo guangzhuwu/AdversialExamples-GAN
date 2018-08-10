@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 """
-Authors: wuguangzhu@baidu.com
+Authors: guangzhuwu@gmail.com
 """
 
 # 导入mnist数据库

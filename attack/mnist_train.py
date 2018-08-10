@@ -2,7 +2,7 @@
 # !/usr/bin/env python
 # -*- coding:utf-8 -*-
 """
-Authors: wuguangzhu@baidu.com
+Authors: guangzhuwu@gmail.com
 """
 
 import os
